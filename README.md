@@ -49,24 +49,28 @@ The Revenue Summary Dashboard provides an overview of revenue trends at differen
 -	Quarterly: Shows quarterly total revenue and quarter-over-quarter percentage change.
 -	Annually: Shows annual total revenue and year-over-year percentage change.
 (Insert visualizations: Bar-line graphs for each time granularity showing total revenue and percentage change)
+
 #### Key Observations from Revenue Summary Dashboard
 -	Daily revenue fluctuates: Daily revenue shows significant fluctuations, with some days experiencing double-digit percentage changes. This highlights the need to monitor daily sales patterns and identify potential factors that contribute to these fluctuations.
 -	Weekly revenue shows some seasonality: Weekly revenue exhibits some seasonality, with higher revenue during certain weeks of the year. This suggests the potential for targeted promotions or marketing campaigns during peak seasons.
 -	Monthly revenue shows a clear trend: Monthly revenue shows a clear trend of increasing revenue from January to May, followed by a decline from June to September, and then an increase again from October to December. This pattern suggests a strong seasonal influence on sales performance.
 -	Quarterly revenue shows consistent growth in 2020: Quarterly revenue shows consistent growth throughout 2020, indicating a positive overall trend.
 -	Annual revenue shows significant growth in 2021: Annual revenue experienced significant growth in 2021 compared to 2020, but slightly declined in 2022. This highlights the need to investigate the factors that contributed to the decline in 2022 and develop strategies to revitalize sales growth.
+
 ### Product Revenue Summary Dashboard
 The Product Revenue Summary Dashboard provides an overview of revenue trends by product category:
 -	Total Annual Revenue by Product Category: Shows total annual revenue for each product category and year-over-year percentage change.
 -	Product Category Percentage of Total Annual Revenue: Shows the percentage contribution of each product category to total annual revenue.
 -	Revenue Trend for Each Category: Shows the revenue trend for each category over time, with year-over-year percentage change.
 (Insert visualizations: Clustered bar charts and bar-line graph showing product category performance)
+
 #### Key Observations from Product Revenue Summary Dashboard
 -	Accessories dominate revenue: Accessories consistently generate the highest revenue among all product categories, accounting for 53% of total annual revenue.
 -	Games show consistent performance: Games consistently contribute around 39% of total annual revenue.
 -	Board games and collectibles have lower contributions: Board games and collectibles have relatively lower contributions to total revenue, with 6% and 2% respectively.
 -	All categories experienced significant growth in 2021: All product categories experienced significant year-over-year revenue growth in 2021 compared to 2020.
 -	Slight decline in revenue for most categories in 2022: Most product categories experienced a slight decline in revenue in 2022 compared to 2021.
+
 ### Store Performance Dashboard
 The Store Performance Dashboard provides an overview of individual store performance:
 -	Daily Revenue: Shows daily revenue for each store for the last 5 days and day-over-day percentage change.
@@ -75,10 +79,12 @@ The Store Performance Dashboard provides an overview of individual store perform
 -	Annual Revenue: Shows annual revenue for each store for the last 3 years and year-over-year percentage change.
 -	Key Performance Indicators (KPIs): Shows average total revenue per store over the last 30 days, average number of transactions per store over the last 30 days, average items sold per store over the last 30 days, average revenue per transaction over the last 30 days, and average number of items per transaction over the last 30 days.
 (Insert visualizations: Tables showing store performance metrics and KPIs)
+
 #### Key Observations from Store Performance Dashboard
 -	Significant variation in store performance: There is significant variation in revenue and transaction count across different stores, highlighting the need for individualized performance evaluation and targeted improvement strategies.
 -	Some stores consistently outperform others: Certain stores consistently generate higher revenue and transaction counts compared to others, suggesting potential best practices or operational differences that can be investigated.
 -	KPIs provide a benchmark for comparison: The KPIs provide a benchmark for comparing individual store performance against overall averages.
+
 ### Sales Overview Dashboard
 The Sales Overview Dashboard provides a comprehensive overview of key sales metrics:
 -	Average Daily Revenue per Month: Shows average daily revenue per month with month-over-month percentage change.
