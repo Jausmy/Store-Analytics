@@ -4,7 +4,7 @@
 This report presents a comprehensive analysis of store sales and transaction data, focusing on identifying key revenue trends, understanding product category performance, and evaluating individual store performance. By examining sales patterns over time, across different product categories, and at the store level, we aim to provide actionable insights to optimize sales strategies, improve store operations, and drive overall business growth.
 
 ## Executive Summary
-This analysis was conducted to provide a comprehensive overview of store sales and transaction data. By examining key metrics such as total revenue, transaction count, average transaction value, and product category performance, we identified key trends and opportunities for improvement. A key insight from the analysis is that annual revenue experienced significant growth in 2021 compared to 2020, but slightly declined in 2022 [(see Revenue Summary Dashboard Values)](#Revenue-Summary-Dashboard). Based on the analysis, we recommend investigating the factors that contributed to the decline in 2022 and developing targeted strategies to revitalize sales growth. This could involve reviewing pricing strategies, enhancing marketing efforts, or optimizing product offerings to better align with customer demand. By implementing these recommendations, the company can potentially reverse the declining trend and achieve sustainable revenue growth [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).
+By examining key metrics such as total revenue, transaction count, average transaction value, and product category performance, we identified key trends and opportunities for improvement. A key insight from the analysis is that annual revenue experienced significant growth in 2021 compared to 2020, but slightly declined in 2022 [(see Revenue Summary Dashboard Values)](#Revenue-Summary-Dashboard). Based on the analysis, we recommend investigating the factors that contributed to the decline in 2022 and developing targeted strategies to revitalize sales growth. This could involve reviewing pricing strategies, enhancing marketing efforts, or optimizing product offerings to better align with customer demand. By implementing these recommendations, the company can potentially reverse the declining trend and achieve sustainable revenue growth [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).
 
 ## Task/Objective
 The objective of this analysis is to gain a comprehensive understanding of store sales and transaction patterns to identify key trends, evaluate performance, and provide data-driven insights for strategic decision-making. This involves:
@@ -16,7 +16,7 @@ The objective of this analysis is to gain a comprehensive understanding of store
 
 ## Methodology
 ### Data Sources
-The primary data source for this analysis is a sales dataset comprising two tables:
+The primary data sources for this analysis are two sales datasets:
 -	Sales by date and product category: Contains information on total sales, distinct transaction count, total items sold, and transaction date for each product category.
 -	Store transaction data: Contains information on store number, store name, state abbreviation, total items sold, total transactions, total revenue, and transaction date for each store.
 
@@ -26,7 +26,7 @@ The following tools were used for data analysis and visualization:
 -	Tableau – Data visualization and analysis
 
 ### Data Exploration
-Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of sales across different product categories, time periods, and stores, as well as identifying potential correlations between transaction count and revenue.
+Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of sales across different product categories, time periods, and stores.
 
 ### Data Analysis Techniques
 The following data analysis techniques were employed:
@@ -49,7 +49,6 @@ The Revenue Summary Dashboard provides an overview of revenue trends at differen
 -	Monthly: Shows monthly total revenue and month-over-month percentage change.
 -	Quarterly: Shows quarterly total revenue and quarter-over-quarter percentage change.
 -	Annually: Shows annual total revenue and year-over-year percentage change.
-(Insert visualizations: Bar-line graphs for each time granularity showing total revenue and percentage change)
 
 #### Key Observations from Revenue Summary Dashboard
 -	Daily revenue fluctuates: Daily revenue shows significant fluctuations, with some days experiencing double-digit percentage changes. This highlights the need to monitor daily sales patterns and identify potential factors that contribute to these fluctuations.
@@ -62,13 +61,12 @@ The Revenue Summary Dashboard provides an overview of revenue trends at differen
 The Product Revenue Summary Dashboard provides an overview of revenue trends by product category:
 -	Total Annual Revenue by Product Category: Shows total annual revenue for each product category and year-over-year percentage change.
 -	Product Category Percentage of Total Annual Revenue: Shows the percentage contribution of each product category to total annual revenue.
--	Revenue Trend for Each Category: Shows the revenue trend for each category over time, with year-over-year percentage change.
-(Insert visualizations: Clustered bar charts and bar-line graph showing product category performance)
+-	Revenue Trend for Each Category: Shows the revenue trend for each category over time, with the year-over-year percentage change.
 
 #### Key Observations from Product Revenue Summary Dashboard
--	Accessories dominate revenue: Accessories consistently generate the highest revenue among all product categories, accounting for 53% of total annual revenue.
+-	Accessories dominate revenue: Accessories consistently generate the highest revenue among all product categories, accounting for 53% of total annual revenue each year.
 -	Games show consistent performance: Games consistently contribute around 39% of total annual revenue.
--	Board games and collectibles have lower contributions: Board games and collectibles have relatively lower contributions to total revenue, with 6% and 2% respectively.
+-	Board games and collectibles have lower contributions: Board games and collectibles have relatively lower contributions to total revenue, with a consistent 6% and 2% respectively.
 -	All categories experienced significant growth in 2021: All product categories experienced significant year-over-year revenue growth in 2021 compared to 2020.
 -	Slight decline in revenue for most categories in 2022: Most product categories experienced a slight decline in revenue in 2022 compared to 2021.
 
@@ -79,7 +77,6 @@ The Store Performance Dashboard provides an overview of individual store perform
 -	Monthly Revenue: Shows monthly revenue for each store for the last 3 months and month-over-month percentage change.
 -	Annual Revenue: Shows annual revenue for each store for the last 3 years and year-over-year percentage change.
 -	Key Performance Indicators (KPIs): Shows average total revenue per store over the last 30 days, average number of transactions per store over the last 30 days, average items sold per store over the last 30 days, average revenue per transaction over the last 30 days, and average number of items per transaction over the last 30 days.
-(Insert visualizations: Tables showing store performance metrics and KPIs)
 
 #### Key Observations from Store Performance Dashboard
 -	Significant variation in store performance: There is significant variation in revenue and transaction count across different stores, highlighting the need for individualized performance evaluation and targeted improvement strategies.
@@ -95,14 +92,13 @@ The Sales Overview Dashboard provides a comprehensive overview of key sales metr
 -	Average Revenue per Transaction: Shows average revenue per transaction with month-over-month percentage change.
 -	Average Units per Transaction: Shows average units per transaction with month-over-month percentage change.
 -	Average Revenue per Unit: Shows average revenue per unit.
-(Insert visualizations: Charts showing key sales metrics)
 
 #### Key Observations from Sales Overview Dashboard
--	Average daily revenue shows an upward trend: Average daily revenue generally shows an upward trend from 2020 to 2021, but stabilizes in 2022.
--	Monthly revenue follows a seasonal pattern: Monthly revenue follows a similar seasonal pattern as observed in the Revenue Summary Dashboard, with peaks in May and December.
+-	Average daily revenue per month shows an upward trend: Average daily revenue generally shows an upward trend from 2020 to 2021, but stabilizes before declining in 2022.
+-	Monthly revenue follows a seasonal pattern: Monthly revenue follows a similar seasonal pattern as observed in the Revenue Summary Dashboard, peaking in December every year except for 2022.
 -	Transaction count and units sold follow similar trends: Total transactions and total units sold follow similar trends as monthly revenue, indicating a strong correlation between these metrics.
--	Average revenue per transaction remains relatively stable: Average revenue per transaction remains relatively stable over time, with minor fluctuations.
--	Average units per transaction shows a slight decline: Average units per transaction shows a slight decline from 2020 to 2022, suggesting a potential shift in customer purchasing behavior.
+-	Average revenue per transaction remains relatively stable: Average revenue per transaction remains relatively stable over time staying between $125 and $130, with minor fluctuations.
+-	Average units per transaction shows a consistent range: Average units per transaction remain consistent from 2020 to 2022, staying in a range of 2.42 units per transaction and 2.46 units per transaction.
 
 ## Recommendations
 Based on the analysis of store sales and transaction data, the following recommendations are proposed:
@@ -126,7 +122,7 @@ While this analysis provides valuable insights and recommendations, it's importa
 
 ## Key Takeaways
 This analysis provides valuable insights into store sales and transaction patterns. Here are the key takeaways:
--	Sales exhibit seasonality: Sales data shows clear seasonal patterns, with peaks in May and December.
+-	Sales exhibit seasonality: Sales data shows clear seasonal patterns, with peaks in December.
 -	Accessories are a key revenue driver: Accessories consistently generate the highest revenue among all product categories.
 -	Store performance varies significantly: Individual store performance shows significant variation, highlighting the need for individualized evaluation and targeted improvement strategies.
 -	2022 revenue decline warrants investigation: The decline in annual revenue in 2022 requires further investigation to identify the underlying causes and develop effective solutions.
