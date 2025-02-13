@@ -108,7 +108,7 @@ The Store Performance Dashboard provides an overview of individual store perform
 
 -	Key Performance Indicators (KPIs): Shows average total revenue per store over the last 30 days, average number of transactions per store over the last 30 days, average items sold per store over the last 30 days, average revenue per transaction over the last 30 days, and average number of items per transaction over the last 30 days.
 
-![Store-KPIs]([Store-KPIs](Assets/Images/Sales%20and%20Trans%20-%20Store%20KPIs.png)
+![Store-KPIs](Assets/Images/Sales%20and%20Trans%20-%20Store%20KPIs.png)
 
 #### Key Observations from Store Performance Dashboard
 -	Significant variation in store performance: There is significant variation in revenue and transaction count across different stores, highlighting the need for individualized performance evaluation and targeted improvement strategies.
