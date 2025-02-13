@@ -22,6 +22,10 @@ The primary data sources for this analysis are two sales datasets:
 -	Sales by date and product category: Contains information on total sales, distinct transaction count, total items sold, and transaction date for each product category.
 -	Store transaction data: Contains information on store number, store name, state abbreviation, total items sold, total transactions, total revenue, and transaction date for each store.
 
+![Data-Source-1](Assets/Images/Sales%20and%20Trans%20-%20Data%20Source%201.png)
+
+![Data-Source-2](Assets/Images/Sales%20and%20Trans%20-%20Data%20Source%202.png)
+
 ### Tools Used
 The following tools were used for data analysis and visualization:
 -	Microsoft Excel – Data exploration
