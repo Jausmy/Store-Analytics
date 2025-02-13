@@ -51,18 +51,22 @@ In the future, we can leverage additional data analysis techniques to further re
 ### Revenue Summary Dashboard
 The Revenue Summary Dashboard provides an overview of revenue trends at different time granularities:
 -	Daily: Shows daily total revenue and day-over-day percentage change.
--	Weekly: Shows weekly total revenue and week-over-week percentage change.
--	Monthly: Shows monthly total revenue and month-over-month percentage change.
--	Quarterly: Shows quarterly total revenue and quarter-over-quarter percentage change.
--	Annually: Shows annual total revenue and year-over-year percentage change.
 
 ![Daily-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Daily%20Sales%20Trends.png)
 
+-	Weekly: Shows weekly total revenue and week-over-week percentage change.
+
 ![Weekly-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Weekly%20Sales%20Trends.png)
+
+-	Monthly: Shows monthly total revenue and month-over-month percentage change.
 
 ![Monthly-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Monthly%20Sales%20Trends.png)
 
+-	Quarterly: Shows quarterly total revenue and quarter-over-quarter percentage change.
+
 ![Quarterly-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Quarterly%20Sales%20Trends.png)
+
+-	Annually: Shows annual total revenue and year-over-year percentage change.
 
 ![Annual-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Annual%20Sales%20Trends.png)
 
@@ -119,17 +123,19 @@ The Store Performance Dashboard provides an overview of individual store perform
 The Sales Overview Dashboard provides a comprehensive overview of key sales metrics:
 -	Average Daily Revenue per Month: Shows average daily revenue per month with month-over-month percentage change.
 -	Monthly Revenue: Shows monthly revenue with month-over-month percentage change.
+![Sales-Overview-1](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%201.png)
+
 -	Total Transactions by Month: Shows total transactions by month.
 -	Total Units Sold by Month: Shows total units sold by month.
--	Average Revenue per Transaction: Shows average revenue per transaction with month-over-month percentage change.
--	Average Units per Transaction: Shows average units per transaction with month-over-month percentage change.
--	Average Revenue per Unit: Shows average revenue per unit.
-
-![Sales-Overview-1](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%201.png)
 
 ![Sales-Overview-2](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%202.png)
 
+-	Average Revenue per Transaction: Shows average revenue per transaction with month-over-month percentage change.
+-	Average Units per Transaction: Shows average units per transaction with month-over-month percentage change.
+
 ![Sales-Overview-3](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%203.png)
+
+-	Average Revenue per Unit: Shows average revenue per unit.
 
 ![Sales-Overview-4](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%204.png)
 
