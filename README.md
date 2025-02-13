@@ -1,6 +1,6 @@
 # Data Portfolio: Store Sales & Transactions Dashboard
 
-![Project-Main-Image](Assets/Images/Store%20Transaction%20Main%20Image.jpg)
+![Project-Main-Image](Assets/Images/Store%20Transaction%20Project%20Main%20Image.jpg)
 
 ## Overview
 This report presents a comprehensive analysis of store sales and transaction data, focusing on identifying key revenue trends, understanding product category performance, and evaluating individual store performance. By examining sales patterns over time, across different product categories, and at the store level, we aim to provide actionable insights to optimize sales strategies, improve store operations, and drive overall business growth.
