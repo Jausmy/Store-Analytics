@@ -56,6 +56,16 @@ The Revenue Summary Dashboard provides an overview of revenue trends at differen
 -	Quarterly: Shows quarterly total revenue and quarter-over-quarter percentage change.
 -	Annually: Shows annual total revenue and year-over-year percentage change.
 
+![Daily-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Daily%20Sales%20Trends.png)
+
+![Weekly-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Weekly%20Sales%20Trends.png)
+
+![Monthly-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Monthly%20Sales%20Trends.png)
+
+![Quarterly-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Quarterly%20Sales%20Trends.png)
+
+![Annual-Sales-Trends](Assets/Images/Sales%20and%20Trans%20-%20Annual%20Sales%20Trends.png)
+
 #### Key Observations from Revenue Summary Dashboard
 -	Daily revenue fluctuates: Daily revenue shows significant fluctuations, with some days experiencing double-digit percentage changes. This highlights the need to monitor daily sales patterns and identify potential factors that contribute to these fluctuations.
 -	Weekly revenue shows some seasonality: Weekly revenue exhibits some seasonality, with higher revenue during certain weeks of the year. This suggests the potential for targeted promotions or marketing campaigns during peak seasons.
@@ -66,8 +76,16 @@ The Revenue Summary Dashboard provides an overview of revenue trends at differen
 ### Product Revenue Summary Dashboard
 The Product Revenue Summary Dashboard provides an overview of revenue trends by product category:
 -	Total Annual Revenue by Product Category: Shows total annual revenue for each product category and year-over-year percentage change.
+
+![Product-Category-YoY](Assets/Images/Sales%20and%20Trans%20-%20Total%20Rev%20By%20Cat%20%2B%20YoY.png)
+
 -	Product Category Percentage of Total Annual Revenue: Shows the percentage contribution of each product category to total annual revenue.
+
+![Product-Category-Percentage-Of-Total](Assets/Images/Sales%20and%20Trans%20-%20Total%20Rev%20By%20Cat%20%2B%20%25%20of%20Total.png)
+  
 -	Revenue Trend for Each Category: Shows the revenue trend for each category over time, with the year-over-year percentage change.
+
+![Product-Category-Trends](Assets/Images/Sales%20and%20Trans%20-%20Product%20Category%20Rev%20Trends.png)
 
 #### Key Observations from Product Revenue Summary Dashboard
 -	Accessories dominate revenue: Accessories consistently generate the highest revenue among all product categories, accounting for 53% of total annual revenue each year.
@@ -80,9 +98,17 @@ The Product Revenue Summary Dashboard provides an overview of revenue trends by 
 The Store Performance Dashboard provides an overview of individual store performance:
 -	Daily Revenue: Shows daily revenue for each store for the last 5 days and day-over-day percentage change.
 -	Weekly Revenue: Shows weekly revenue for each store for the last 4 weeks and week-over-week percentage change.
+
+![Store-Daily-&-Weekly](Assets/Images/Sales%20and%20Trans%20-%20Store%20Daily%20%2B%20Weekly.png)
+
 -	Monthly Revenue: Shows monthly revenue for each store for the last 3 months and month-over-month percentage change.
 -	Annual Revenue: Shows annual revenue for each store for the last 3 years and year-over-year percentage change.
+
+![Store-Monthly-&-Annual](Assets/Images/Sales%20and%20Trans%20-%20Store%20Monthly%20%2B%20Annual.png)
+
 -	Key Performance Indicators (KPIs): Shows average total revenue per store over the last 30 days, average number of transactions per store over the last 30 days, average items sold per store over the last 30 days, average revenue per transaction over the last 30 days, and average number of items per transaction over the last 30 days.
+
+![Store-KPIs]([Store-KPIs](Assets/Images/Sales%20and%20Trans%20-%20Store%20KPIs.png)
 
 #### Key Observations from Store Performance Dashboard
 -	Significant variation in store performance: There is significant variation in revenue and transaction count across different stores, highlighting the need for individualized performance evaluation and targeted improvement strategies.
@@ -98,6 +124,14 @@ The Sales Overview Dashboard provides a comprehensive overview of key sales metr
 -	Average Revenue per Transaction: Shows average revenue per transaction with month-over-month percentage change.
 -	Average Units per Transaction: Shows average units per transaction with month-over-month percentage change.
 -	Average Revenue per Unit: Shows average revenue per unit.
+
+![Sales-Overview-1](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%201.png)
+
+![Sales-Overview-2](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%202.png)
+
+![Sales-Overview-3](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%203.png)
+
+![Sales-Overview-4](Assets/Images/Sales%20and%20Trans%20-%20Sales%20Overview%204.png)
 
 #### Key Observations from Sales Overview Dashboard
 -	Average daily revenue per month shows an upward trend: Average daily revenue generally shows an upward trend from 2020 to 2021, but stabilizes before declining in 2022.
