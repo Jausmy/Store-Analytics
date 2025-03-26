@@ -73,8 +73,8 @@ The Revenue Summary Dashboard provides an overview of revenue trends at differen
 #### Key Observations from Revenue Summary Dashboard
 -	Daily revenue fluctuates: Daily revenue shows significant fluctuations, with some days experiencing double-digit percentage changes. This highlights the need to monitor daily sales patterns and identify potential factors that contribute to these fluctuations.
 -	Weekly revenue shows some seasonality: Weekly revenue exhibits some seasonality, with higher revenue during certain weeks of the year. This suggests the potential for targeted promotions or marketing campaigns during peak seasons.
--	Monthly revenue shows a clear trend: Monthly revenue shows a clear trend of increasing revenue from January to May, followed by a decline from June to September, and then an increase again from October to December. This pattern suggests a strong seasonal influence on sales performance.
--	Quarterly revenue shows consistent growth in 2020: Quarterly revenue shows consistent growth throughout 2020, indicating a positive overall trend.
+-	Monthly revenue fluctuates: Monthly revenue shows fluctuations from January to May, followed by six consecutive months of decline from June to November, and then an increase again in December. This pattern suggests a strong seasonal influence on sales performance.
+-	Quarterly revenue shows consistent growth from 2020 to 2021: Quarterly revenue shows consistent growth throughout 2020-2021, indicating a positive overall trend.
 -	Annual revenue shows significant growth in 2021: Annual revenue experienced significant growth in 2021 compared to 2020, but slightly declined in 2022. This highlights the need to investigate the factors that contributed to the decline in 2022 and develop strategies to revitalize sales growth.
 
 ### Product Revenue Summary Dashboard
